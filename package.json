@@ -1,0 +1,23 @@
+{
+  "name": "ballCollision1",
+  "version": "1.0.0",
+  "description": "Understanding collision of a ball and plane.",
+  "main": "server.js",
+  "scripts": {
+    "start": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/estebanpadilla/ballCollision1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/estebanpadilla/ballCollision1/issues"
+  },
+  "homepage": "https://github.com/estebanpadilla/ballCollision1#readme",
+  "devDependencies": {
+    "lite-server": "^2.2.2"
+  }
+}
